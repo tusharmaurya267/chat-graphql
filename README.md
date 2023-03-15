@@ -26,7 +26,4 @@ npm install
 npm start
 ```
 
-## Note 
-The starter folder contains the starter code to follow along with the video tutorial at [https://youtu.be/r5KY5m5OXsI](https://youtu.be/r5KY5m5OXsI)
-## Contributing
-Pull requests are welcome.
+
